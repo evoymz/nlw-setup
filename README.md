@@ -35,7 +35,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um app para ajudar a controlar os hábitos.
 
-
 - [Acesse o projeto finalizado, online](evoymz.github.io/nlw-setup)
 
 ## 🔖 Layout
